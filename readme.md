@@ -5,7 +5,7 @@ Repositório referente ao curso da Semana Omnistack 8.0, contendo somente os amb
 ## Projeto
 
 Tindev, projeto na qual se inspira no Tinder para fazer *matches* entre desenvolvedores. O mesmo utiliza a API
-publica do GitHub para autenticar e registrar os usuários. Funcionalidades:
+pública do GitHub para autenticar e registrar os usuários. Funcionalidades:
 
 - Criar perfil a partir do GitHub;
 - Dar likes ou deslikes nos dev's;
